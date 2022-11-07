@@ -7,3 +7,4 @@
 - 백준 11654번 : [아스키코드](https://www.acmicpc.net/problem/11654)
 - 백준 11720번 : [숫자의 합](https://www.acmicpc.net/problem/11720)
 - 백준 10809번 : [알파벳 찾기](https://www.acmicpc.net/problem/10809)
+- 백준 2675번 : [문자열 반복](https://www.acmicpc.net/problem/2675)
