@@ -1,6 +1,6 @@
 # 📚 오늘의 문제
 ### 규현
-
+- 백준 1149번 : [RGB거리](https://www.acmicpc.net/problem/1149)
 ### 수진
 
 ### 주혜
