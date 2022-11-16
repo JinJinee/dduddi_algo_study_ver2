@@ -4,4 +4,4 @@
 ### 수진
 
 ### 주혜
-주햄 jsp 따러 갑니다^^~~
+- 백준 2750번 : [수 정렬하기](https://www.acmicpc.net/problem/2750)
