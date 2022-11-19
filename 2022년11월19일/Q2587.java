@@ -30,7 +30,7 @@ public class Q2587 {
 		}
 		System.out.println(sum/5);
 		System.out.println(a[2]);
-		
+	
 		
 		
 		
