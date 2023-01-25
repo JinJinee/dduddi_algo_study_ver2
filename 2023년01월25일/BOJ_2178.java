@@ -13,6 +13,13 @@ public class BOJ_2178 {
 	static int[] dy = {0, 1, 0, -1};
 	static int[][] board, dis;
 	
+	class Point{
+		public int x, y;
+		Point(int x, int y){
+			this.x = x;
+			this.y = y;
+		}
+	}
 	
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
